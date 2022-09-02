@@ -1,0 +1,11 @@
+[package]
+name = "se-io"
+version = "0.1.0"
+edition = "2021"
+repository = "https://www.github.com/vali820/se-io/"
+documentation = "https://www.docs.rs/se-io/"
+license = "MIT"
+keywords = ["io"]
+description = "Binary and text I/O crate"
+
+[dependencies]
