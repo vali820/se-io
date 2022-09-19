@@ -9,3 +9,4 @@ keywords = ["io"]
 description = "Binary and text I/O crate"
 
 [dependencies]
+byteorder = "1.4.3"
